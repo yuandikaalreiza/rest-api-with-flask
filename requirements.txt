@@ -1,3 +1,6 @@
-flask
+flask==2.3
 flask-smorest
 python-dotenv
+marshmallow
+sqlalchemy
+flask-sqlalchemy
